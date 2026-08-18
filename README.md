@@ -6,16 +6,18 @@
 -[ ] communication<br>
 -[x] self-motivated<br>
 -[ x ] quick learn
-<br><b> table</b><br>
-|exam|date|<br>
-|tam |17  |<br>
-|eng |15  |<br>
-|mat |34  |<br>
+<br><b> table</b><br> 
+
+|exam|date|
+| --- | --- |
+|tam |17  |
+|eng |15  |
+|mat |34  |
 <p aling="centre">
   ertch</p>
 creating dropdown
 <detials>
-  <summary> this counten is hidden</summary>
+  <summary> click hidden</summary>
 -ssgt...............
 </detials>
 <br>
