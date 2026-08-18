@@ -7,7 +7,7 @@
 - Self-motivated
 - Quick learn
             
-:frie:
+
 <br>
 <b> table</b><br> 
 
@@ -17,8 +17,11 @@
 |eng |15  |
 |mat |34  |
 <p aling="centre">
-  ertch</p>
-creating dropdown
+  ertch </p>
+  😄
+  🥮
+  
+  
 <detials>
   <summary> click hidden</summary>
 -ssgt...............
