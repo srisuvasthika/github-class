@@ -12,7 +12,7 @@
 |eng|15|<br>
 |mat|34|<br>
 <b> creating dropdown</b>
-<detials></detials>
+<detials>
 <summary> this counten is hidden</summary>
-ssssssssssssgt</detials>
+-ssssssssssssgt</detials>
 
