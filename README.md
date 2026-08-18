@@ -20,11 +20,15 @@
   ertch </p>
   😄
   🥮
+  -
   
-  
-<detials>
-  <summary> click hidden</summary>
--ssgt...............
-</detials>
+
+ 
 <br>
 [image](https://www.vecteezy.com/free-photos/image)
+
+
+
+
+- [ ] sri
+- [X] hi
