@@ -14,7 +14,7 @@
   ertch</p>
 creating dropdown
 <detials>
-    <summary> this counten is hidden</summary>
+  <summary> this counten is hidden</summary>
 -ssgt...............
 </detials>
 image
