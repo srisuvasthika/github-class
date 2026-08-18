@@ -2,7 +2,7 @@
 ## about my self
 <p> good morning,respected teacher and my dear friend </p><br>
 <p>my name is sri suvasthika.B.i am from <del>chrompet</del> chennai. I completed my schooling at st.mark's matriculatio higher secondary school.and i currently pursuing bachelor oscience (B.SC.)in computer science with data sciences . i am studying </p><br>
-#### list<br> 
+#### list
 - self-motivated
 - quick learn
 :frie:
