@@ -6,6 +6,7 @@
 -[ ] communication<br>
 -[x] self-motivated<br>
 -[ x ] quick learn
+:frie:
 <br><b> table</b><br> 
 
 |exam|date|
