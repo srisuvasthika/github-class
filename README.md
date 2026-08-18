@@ -10,10 +10,11 @@
 |exam|date|<br>
 |tam|17|<br>
 |eng|15|<br>
-|mat|34|<br><p></p>
-<b> creating dropdown</b><br>
+|mat|34|<br><p aling=" centre">
+  ertch
+creating dropdown
 <detials>
-<summary> this counten is hidden</summary>
+    <summary> this counten is hidden</summary>
 -ssgt...............
 </detials>
 image
