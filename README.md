@@ -6,4 +6,8 @@
 -[ ] communication<br>
 -[x] self-motivated<br>
 -[ x ] quick learn
-<br><t
+<br><b> table</b><br>
+|exam|date|
+|tam|17|
+|eng|15|
+|mat|34|
