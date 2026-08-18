@@ -7,10 +7,10 @@
 -[x] self-motivated<br>
 -[ x ] quick learn
 <br><b> table</b><br>
-|exam|date|
-|tam |17  |
-|eng |15  |
-|mat |34  |
+|exam|date|<br>
+|tam |17  |<br>
+|eng |15  |<br>
+|mat |34  |<br>
 <p aling=" centre">
   ertch</p>
 creating dropdown
